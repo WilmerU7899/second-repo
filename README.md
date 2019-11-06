@@ -1,2 +1,2 @@
-this is my second repo 
-this line will be my third commit 
+This is my second repo 
+My name is Wilmer 
